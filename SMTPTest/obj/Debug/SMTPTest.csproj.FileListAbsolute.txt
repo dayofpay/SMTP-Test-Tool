@@ -1,0 +1,7 @@
+C:\Users\VCompany\source\repos\SMTPTest\SMTPTest\bin\Debug\SMTPTest.exe.config
+C:\Users\VCompany\source\repos\SMTPTest\SMTPTest\bin\Debug\SMTPTest.exe
+C:\Users\VCompany\source\repos\SMTPTest\SMTPTest\bin\Debug\SMTPTest.pdb
+C:\Users\VCompany\source\repos\SMTPTest\SMTPTest\obj\Debug\SMTPTest.csprojAssemblyReference.cache
+C:\Users\VCompany\source\repos\SMTPTest\SMTPTest\obj\Debug\SMTPTest.csproj.CoreCompileInputs.cache
+C:\Users\VCompany\source\repos\SMTPTest\SMTPTest\obj\Debug\SMTPTest.exe
+C:\Users\VCompany\source\repos\SMTPTest\SMTPTest\obj\Debug\SMTPTest.pdb
