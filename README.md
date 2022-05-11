@@ -11,7 +11,7 @@
 
 ####Instalation
 
-`$ git clone https://github.com/dayofpay/SMTP-Mail-Sender`
+`$ git clone https://github.com/dayofpay/SMTP-Test-Tool`
 
 ####Parse arguments ( Source )　
 
