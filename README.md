@@ -178,7 +178,7 @@ namespace SMTPTest
             }
 
             return String.Empty;
-            // SMTPTest.exe --loginusername admin@v-devs.online --address smtp.v-devs.online --smtppass <myCoolPassword> --port 587 --ssl true --subject Hey,how are you doing ? --message Hey,how are you ?--receiver test@v-devs.online --end
+            // SMTPTest.exe --loginusername admin@v-devs.online --address smtp.v-devs.online --smtppass <myCoolPassword> --port 587 --ssl true --subject Hey,how are you doing ? --message Hey,how are you ? --receiver test@v-devs.online --end
         }
         public static string GetBody(this string text, string stopAt = "--receiver", string startAt = "--message")
         {
@@ -188,7 +188,7 @@ namespace SMTPTest
             }
 
             return String.Empty;
-            // SMTPTest.exe --loginusername admin@v-devs.online --address smtp.v-devs.online --smtppass <myCoolPassword> --port 587 --ssl true --subject Hey,how are you doing ? --message Hey,how are you ?--receiver test@v-devs.online   --end     
+            // SMTPTest.exe --loginusername admin@v-devs.online --address smtp.v-devs.online --smtppass <myCoolPassword> --port 587 --ssl true --subject Hey,how are you doing ? --message Hey,how are you ? --receiver test@v-devs.online   --end     
         }
         public static string GetReceiver(this string text, string stopAt = "--end", string startAt = "--receiver")
         {
