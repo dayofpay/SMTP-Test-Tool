@@ -9,11 +9,11 @@
 
 ### Documentation
 
-####Instalation
+#### Instalation
 
 `$ git clone https://github.com/dayofpay/SMTP-Test-Tool`
 
-####Parse arguments ( Source )　
+#### Parse arguments ( Source )　
 
 ```javascript
 using System;
@@ -207,7 +207,7 @@ namespace SMTPTest
 
 
 
-###Arguments
+### Arguments
 
 | Argument Name  | Argument Required Info  | Argument Required |
 | :------------ |:---------------:| -----:|
@@ -225,6 +225,6 @@ namespace SMTPTest
 ----
 
 
-###If you have questions feel free to contact me :)
+### If you have questions feel free to contact me :)
 
 ### Developed by V-DEVS Bulgaria : https://v-devs.online
